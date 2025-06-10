@@ -52,5 +52,4 @@ This dashboard utilizes a dataset commonly known as **Global Superstore Sales Da
 
 You can view and interact with this dashboard live on Tableau Public:
 
-[My Dashboard](https://public.tableau.com/app/profile/bafti.cakir/viz/ukworksheet_17466307112280/Dashboard1)
-
+[My Dashboard](https://public.tableau.com/app/profile/bafti.cakir/viz/globalsuperstore_17466289058780/GlobalSuperstore)
